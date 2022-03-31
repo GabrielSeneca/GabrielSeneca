@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielSeneca
 - 👀 I’m passionate about computer technology and creative processes.
-- 🌱 I’m currently learning Testing Software and QA.
-- 💞️ I’m currently in search of challenges oriented to support, testing and/or development within an area that allows me to add new experiences and expand my knowledge.
+- 🌱 I have been working in hardware support for more than 10 years and I am currently learning new technologies
+- to grow as a developer, especially .NET, Html, Css and Js.
 - 📫 Contact
 https://www.linkedin.com/in/gabsen2021/               
 ghseneca@gmail.com
